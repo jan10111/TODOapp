@@ -1,0 +1,4 @@
+Zakljuceni taski: 
+- sleep
+Nezakljuceni taski: 
+- eat
